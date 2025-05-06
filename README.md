@@ -33,7 +33,7 @@ Eventually, I hope to use this tool (and AI support!) to fully verify the long p
   - Modal and first-order inference rules (`NDProof`)
   - Axioms corresponding to chapters 7–8 of the book
   - Tests showing sample proofs for most major inference rules
-  - A Kripke-style semantics (approximating the intended interpretation of conditional logical possibility claims in actualist set theory)
+  - A Kripke-style semantics
 
 ---
 
