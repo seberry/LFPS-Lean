@@ -3,7 +3,7 @@
 This repository contains a Lean 4 formalization of the inference system and semantics from my book *A Logical Foundation for Potentialist Set Theory* (LFPS).
 
 ### ⚠️ Status: Work in Progress
-This is an early, partially polished prototype aimed at:
+This is an early, partially polished prototype (and experiment in vibe coding!) aimed at:
 - Demonstrating how the modal logic of conditional logical possibility can be formalized in Lean
 - Clarifying the behavior of tricky rules like Modal Comprehension and Amalgamation
 - Helping readers and reviewers understand the intended logic of the system
