@@ -27,7 +27,7 @@ inductive Formula
 | box : List (String × Nat) → Formula → Formula
 | eq : Term → Term → Formula
 
-
+---Warning: this definition alone doesn't block quantifying in, although quantifying in is (importantly) not allowed in the language of logical possibility proposed in LFPS
 
 
 def strip_arity (ℒ : List (String × Nat)) : List String :=
